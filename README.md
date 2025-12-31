@@ -15,8 +15,7 @@ This is my first front-end project, where I created a simple smiley face using o
 ## 🌐 Live Preview
 
 Check it live here:  
-👉 html file : ( https://github.com/Ankit-Raj902/myfirstrepo/blob/f42cef7233e0bfc68b80e0c3d44d5a281f5644b9/index1.html ) <br><br>
-👉 css file : ( https://github.com/Ankit-Raj902/myfirstrepo/blob/f42cef7233e0bfc68b80e0c3d44d5a281f5644b9/style1.css )
+👉 https://codepen.io/legitankit/pen/azZOeEG
 
 ## 📸 Screenshot
 
